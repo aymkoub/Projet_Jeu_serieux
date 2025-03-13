@@ -7,6 +7,8 @@
 - GILLIG Mattéo
 - KHENISSI Tejeddinne
 
+- Dates du projet : 15 septembre 2023 - 20 décembre 2023 
+
 ## Logo du Jeu
 
 ![Logo du Jeu](logo_Terriflux.jpg)
